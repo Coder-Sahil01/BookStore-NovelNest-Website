@@ -1,0 +1,146 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Whispered Tales: Stories that Stir the Soul",
+        "price":0,
+        "category":"Free",
+        "image":"cart.png"
+
+    },
+    {
+        "id":2,
+        "name":"Music Book",
+        "title":"Chill the life so on.",
+        "price":100,
+        "category":"Song",
+        "image":"cart.png"
+
+    },
+    {
+        "id":3,
+        "name":"Fiction Book",
+        "title":"The Infinite Imagination",
+        "price":110,
+        "category":"Fiction",
+        "image":"cart.png"
+
+    },
+    {
+        "id":4,
+        "name":"Non-Fiction Book",
+        "title":"ruth and Reality: Unveiling the World",
+        "price":100,
+        "category":"NonFic",
+        "image":"cart.png"
+
+    },
+    {
+        "id":5,
+        "name":"Mystery/Thriller Book",
+        "title":"Secrets in the Shadows",
+        "price":50,
+        "category":"Mystery",
+        "image":"cart.png"
+
+    },
+    {
+        "id":6,
+        "name":"Science Fiction Book",
+        "title":"Beyond the Stars",
+        "price":149,
+        "category":"Science",
+        "image":"cart.png"
+
+    },
+    {
+        "id":7,
+        "name":"Fantasy Book",
+        "title":"Realm of Magic",
+        "price":0,
+        "category":"Free",
+        "image":"cart.png"
+
+    },
+    {
+        "id":8,
+        "name":"Historical Fiction Book",
+        "title":"Echoes of the Past",
+        "price":41,
+        "category":"Historical",
+        "image":"cart.png"
+
+    },
+    {
+        "id":9,
+        "name":"Romance Book",
+        "title":"Hearts Entwined",
+        "price":0,
+        "category":"Free",
+        "image":"cart.png"
+
+    },
+    {
+        "id":10,
+        "name":"Autobiography",
+        "title":"Life Unveiled: Stories of Remarkable Journeys",
+        "price":0,
+        "category":"Free",
+        "image":"cart.png"
+
+    },
+    {
+        "id":11,
+        "name":"Self-Help Book",
+        "title":"Pathways to Personal Growth",
+        "price":200,
+        "category":"Self-Help",
+        "image":"cart.png"
+
+    },
+    {
+        "id":12,
+        "name":"Childrens  Book",
+        "title":"Whimsical Tales for Little Minds",
+        "price":0,
+        "category":"Free",
+        "image":"cart.png"
+
+    },
+    {
+        "id":13,
+        "name":"Horror Book",
+        "title":"Nightmare Chronicles",
+        "price":0,
+        "category":"Free",
+        "image":"cart.png"
+
+    },
+    {
+        "id":14,
+        "name":"Poetry Book",
+        "title":"Whispers of the Soul",
+        "price":0,
+        "category":"Free",
+        "image":"cart.png"
+
+    },
+    {
+        "id":15,
+        "name":"Comics",
+        "title":"Illustrated Epics",
+        "price":0,
+        "category":"Free",
+        "image":"cart.png"
+
+    },
+    {
+        "id":16,
+        "name":"Philosophy",
+        "title":"Thoughts and Reflections",
+        "price":159,
+        "category":"Philosophy",
+        "image":"cart.png"
+
+    }
+]
